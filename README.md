@@ -1,1 +1,1 @@
-# Stock-Price-Prediction-Using-Time-Series-Models-
+# Stock Price forecasting using univariate time series data
