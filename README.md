@@ -1,7 +1,8 @@
 # Stock Price forecasting using univariate time series data
 
 <b>Run code</b>
-1.Download the whole project (Click the green written Code)
+<ol>
+  <li>Download the whole project (Click the green written Code)</li>
 2. Choose download zip.
 3. Go to your dowwnloads and extract the file to a suitable file destination
 4. On your browser type and navigate trough "Google Coloboratory" 
